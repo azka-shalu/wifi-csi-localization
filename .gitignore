@@ -1,0 +1,9 @@
+# data & model
+dataset.zip
+wifi_csi_dataset/
+*.pth
+# python / jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.DS_Store
